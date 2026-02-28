@@ -215,7 +215,7 @@ const akash = {
 ### 💬 Let's Connect & Build Something Amazing!
 
 [![Email](https://img.shields.io/badge/akashdhankar.2023it@sece.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashdhankar.2023it@sece.ac.in)
-[![Phone](https://img.shields.io/badge/+91_8248538972-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918248538972)
+
 
 <br/>
 
